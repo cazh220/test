@@ -1,3 +1,2 @@
 <?php
-#显示配置
-phpinfo();
+echo "Hi, Git!";
