@@ -6,4 +6,9 @@ class a {
 	{
 		
 	}
+	
+	public function default()
+	{
+		
+	}
 }
