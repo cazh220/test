@@ -9,6 +9,6 @@ class a {
 	
 	public function default()
 	{
-		
+		echo "Hello World!!";
 	}
 }
